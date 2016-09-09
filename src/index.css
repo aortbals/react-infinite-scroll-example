@@ -10,3 +10,7 @@ body {
 .scroll-y {
   overflow-y: scroll;
 }
+
+.white {
+  color: #FFF;
+}

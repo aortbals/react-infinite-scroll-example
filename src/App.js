@@ -9,7 +9,11 @@ class App extends Component {
       <div className="App">
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h2>React Infinite Scroll</h2>
+          <h2>
+            <a className="white" href="https://github.com/aortbals/react-infinite-scroll-example">
+              React Infinite Scroll
+            </a>
+          </h2>
         </div>
 
         <List />
