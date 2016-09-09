@@ -21,6 +21,7 @@ class List extends Component {
   }
 
   loadMore = () => {
+    if (this.state.isLoading) { return }
     this.setState({ isLoading: true });
 
     // Simulate a delay
