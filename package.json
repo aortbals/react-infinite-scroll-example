@@ -1,7 +1,7 @@
 {
   "name": "infinite-scroll-example",
   "version": "0.1.0",
-  "private": true,
+  "homepage": "http://aaronortbals.com/react-infinite-scroll-example",
   "devDependencies": {
     "react-scripts": "0.4.1"
   },
